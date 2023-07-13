@@ -9,6 +9,7 @@
 🔴 HTML<br/>
 🔴 CSS<br/>
 🔵 Flexbox<br/>
+🔵 Bootstrap<br/>
 🔵 Font Awesome Icons<br/>
 🟡VSCode Editor
 
